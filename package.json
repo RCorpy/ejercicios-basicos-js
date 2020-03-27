@@ -1,0 +1,26 @@
+{
+  "name": "cursojs",
+  "version": "1.0.0",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console": "^0.7.2",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RCorpy/RCorp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RCorpy/RCorp/issues"
+  },
+  "homepage": "https://github.com/RCorpy/RCorp#readme",
+  "description": ""
+}
